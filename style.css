@@ -1,0 +1,254 @@
+.f{
+    border: 1px solid red;
+}
+/************start section one*************/
+/*------------------- start left side---------------------------*/
+
+
+.nav-item a {
+    color: brown;
+}
+.text{
+    border: 2px dashed brown;
+     width: 19rem; 
+    padding: 3px;
+    text-align: center;
+}
+.text-span{
+    display: inline-block;
+    font-size: 11px;
+    /* width: 100%; */
+    padding: 2px;
+}
+
+.head h1 b{
+    font-size: 100px;
+}
+.week{
+}
+.week h3 b{
+    font-size: 53px;
+
+}
+/*------------------- start right side---------------------------*/
+.img{
+    max-width: 100%;
+    /* width: 100%; */
+}
+.glow{
+    position: absolute;
+    width: 38%;
+    /* border: 1px solid black; */
+    left: 19%;
+    bottom: 51%;}
+.PositionContainer{
+  
+}
+.bc{
+    background-color:  #ffc045
+}
+.pb{
+    padding-bottom: 8%;
+}
+.position{
+    position: relative;
+    text-align: center;
+    color: white;
+   
+   
+    height: 250px;
+    margin-top: 20px;
+}
+.french{
+    /* top: .8rem; */
+    position: absolute;
+    transform: rotate(-50deg);
+    width: 30%;
+    left: .99%;
+    /* border: 1px solid black; */
+}
+.drinks{
+    position: absolute;
+    width: 16%;
+    left: 53%;
+    /* border: 1px solid black; */
+}
+.burger{
+    position: absolute;
+    width: 46%;
+    left: 16%;
+    top: 16%;
+    max-width: 100%;
+    /* border: 1px solid black; */
+}
+.shadow-drink{
+    position: absolute;
+    width: 16%;
+    left: 55%;
+    top: 91%;
+    /* border: 1px solid black; */
+}
+.shadowBurger{
+    position: absolute;
+    width: 35%;
+    left: 23%;
+    top: 96%;
+    /* border: 1px solid black; */
+
+}
+.priceContainer{
+    background-color: red;
+    border-radius: 50%;
+    width: 22%;
+    height: 45%;
+    position: absolute;
+    left: 1%;
+    top: 75%;
+    text-align: center;
+    align-items: center;
+}
+.price{
+    
+    border: 2px dashed #ffff;
+    border-radius: 50%;
+    width: 19%;
+    height: 39%;
+    position: absolute;
+    left: 2.5%;
+    top: 78%;
+    color: #ffff;
+    text-align: center;
+}
+.price h2{
+margin-top: 14px;
+}
+.price h2 span{
+    font-size: 20px;
+}
+/*************end section one***************/
+/******************  start section two***********************/
+.imagContainer img{
+
+    border-radius: 10px;
+}
+.mt{
+    margin-top: 2rem;
+}
+#bc{
+    background-color: #ffc045;
+}
+.title{
+
+}
+.paragraph{
+    font-size: 15px;
+    text-align: center;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.center{
+    text-align: center;
+}
+.btn{
+    background-color: red;
+    color: #ffff;
+    padding: .5rem 1rem;
+}
+.imagBurgerContainer{
+   
+   }
+.textPosition{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+   .imageText{
+    position: absolute;
+    top: 24px;
+    left: 16px;
+   }
+   .imageText h6{
+    font-weight: 500  
+   }
+   .imageText2{
+    position: absolute;
+    top: 43px;
+    left: 16px;
+   }
+   .imageText3{
+    position: absolute;
+    top: 65px;
+    left: 16px;
+   }
+   .imageText2  h3
+   {font-size: 19px;
+    font-weight: 700}
+    .imageText3  h3
+   {font-size: 19px;
+    font-weight: 700}
+   /****************six section*******************/
+.shadow{
+    box-shadow: 5px 5px 5px #d8d8d8;
+   }
+   .Discover h1 b{
+    font-size: 46px;
+    font-weight: 800;
+
+   }
+   /*********section 7*************************/
+   .fContainer{
+       overflow: hidden;
+   }
+.bImg{
+ 
+    margin-left: 8%;
+    width: 4.8%;
+}
+.burgerImg{
+    width: 15%;
+    margin-left: -2%;
+}
+.bText{
+    text-align: center;
+    color: darkred;
+ font-weight: 500;
+ margin-left: 20%;
+ margin-top: 5%;
+}
+.bText h2{
+    font-weight: 800;
+    font-size: 2.8rem;
+}
+.form{
+    width: 70%;
+    margin-left: 7%;
+}
+.form input{
+   
+    padding: 2%;
+    padding-right: 19%;
+}
+/* .imgBottleContainer{
+    width: ;
+} */
+.dish{
+    width: 20%;
+    margin-left: 7%;
+    overflow: hidden;
+}
+/********fooooooter*************/
+.footer{
+     background-image: url("./images/Image1.png");
+     background-repeat: no-repeat;
+    /* background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; */ 
+
+    background-size: cover;
+   
+}
+.black{
+    background-color: black;
+    opacity: 0.8;
+    color: #ffffff;
+}
